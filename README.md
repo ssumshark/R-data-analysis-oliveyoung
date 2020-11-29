@@ -1,4 +1,4 @@
-# R-data-analysis-oliveyoung## 올리브영 공식 홈페이지 데이터 분석
+## 올리브영 공식 홈페이지 데이터 분석
 ### Data analysis based on Oliveyoung official homepage
 
 Writer : **[Sumin Woo](mailto:wsm9764@naver.com)**
